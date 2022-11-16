@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: '<3',
     reply: 'Oo',
     mess: 'Pinahirap mag code yarn',
-    messDesc: 'Ehem Ehem',
+    messDesc: 'Pakinggan mo nalang ito',
     btnAccept: 'HAHAHAH',
     messLink: 'https://www.youtube.com/clip/UgkxX0rb3R9sRQxNN2qo2yNCdx5FN1c9w_qh' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
