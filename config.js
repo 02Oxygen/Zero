@@ -4,14 +4,14 @@ const CONFIG = {
     introDesc: `Sagutin mo ok`,
     btnIntro: '^^HiHi^^',
     title: 'basta sagutin mo 🥰',
-    desc: 'Tanong May jowa ka?',
-    btnYes: 'Wala',
-    btnNo: 'Meron',
-    question: 'May Jowa ka?',
-    btnReply: 'Wala :)',
-    reply: 'Reply paano to ',
-    mess: 'Wala ka Jowa HAHAHHA',
-    messDesc: 'BLEEEEEEEEEEE.',
+    desc: 'Tatanggapin mo ba ako?',
+    btnYes: 'Oo',
+    btnNo: 'Hindi',
+    question: 'Talaga ba?',
+    btnReply: '<3',
+    reply: 'Oo',
+    mess: 'Pinahirap mag code yarn',
+    messDesc: 'Ehem Ehem',
     btnAccept: 'HAHAHAH',
-    messLink: 'https://www.facebook.com/messages/t/100008088696368' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.youtube.com/clip/UgkxX0rb3R9sRQxNN2qo2yNCdx5FN1c9w_qh' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
