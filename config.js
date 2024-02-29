@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Hmm",
+    titleWeb: "Simple Website",
     introTitle: 'Welcome nalang',
     introDesc: `Sagutin mo ok`,
     btnIntro: '^^HiHi^^',
@@ -8,8 +8,8 @@ const CONFIG = {
     btnYes: 'Oo',
     btnNo: 'Hindi',
     question: 'Talaga ba?',
-    btnReply: '<3',
-    reply: 'Oo',
+    btnReply: 'Thank you.',
+    reply: 'Oo naman.',
     mess: 'Pinahirap mag code yarn',
     messDesc: 'Pakinggan mo nalang ito',
     btnAccept: 'HAHAHAH',
