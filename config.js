@@ -3,8 +3,8 @@ const CONFIG = {
     introTitle: 'Welcome nalang',
     introDesc: `Sagutin mo ok`,
     btnIntro: '^^HiHi^^',
-    title: 'basta sagutin mo 🥰',
-    desc: 'Tatanggapin mo ba ako?',
+    title: 'Ipapasa nyo ba ako Maam?',
+    desc: '12 - Executive Shawn Michael L. Espiritu',
     btnYes: 'Oo',
     btnNo: 'Hindi',
     question: 'Talaga ba?',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Pinahirap mag code yarn',
     messDesc: 'Pakinggan mo nalang ito',
     btnAccept: 'HAHAHAH',
-    messLink: 'https://www.youtube.com/clip/UgkxX0rb3R9sRQxNN2qo2yNCdx5FN1c9w_qh' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://web.facebook.com/profile.php?id=100008088696368' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
