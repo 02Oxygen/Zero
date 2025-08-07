@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Old Code from 2022',
     messDesc: 'Link ng FB.',
     btnAccept: 'HAHAHAH',
-    messLink: 'https://web.facebook.com/profile.php?id=100008088696368' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: ' ' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
