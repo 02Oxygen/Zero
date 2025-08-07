@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Sagutin mo ok`,
     btnIntro: '^^HiHi^^',
     title: 'Ipapasa nyo ba ako Maam?',
-    desc: '12 - Executive Shawn Michael L. Espiritu',
+    desc: '  ',
     btnYes: 'Oo',
     btnNo: 'Hindi',
     question: 'Talaga ba?',
